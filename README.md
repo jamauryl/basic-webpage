@@ -1,2 +1,7 @@
-Descripción
-La página web está diseñada para ser simple y funcional, con una estructura clara usando HTML y CSS. Aquí se detalla el propósito de cada sección y cómo se utilizan estos lenguajes para lograr el diseño.
+Estrategia de Diseño
+
+HTML: Proporciona la estructura básica del contenido mediante el uso de etiquetas semánticas como <header>, <section>, <form>, y <footer>. Esto no solo facilita la organización del contenido, sino que también mejora la accesibilidad y el SEO.
+
+CSS: Añade estilos visuales personalizados, como colores, espaciado y fuentes, para hacer que la página sea atractiva y fácil de usar. Además, se utiliza CSS para crear un diseño adaptable con espaciado flexible y estilos que se ajustan a diferentes dispositivos.
+
+Este diseño básico puede servir como punto de partida para un proyecto más complejo, permitiendo que se expandan las funcionalidades y el estilo según sea necesario.
